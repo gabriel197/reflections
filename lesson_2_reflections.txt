@@ -1,6 +1,6 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 --An empty Git repository is created, i need it in order to make commits to
-my files
+my files.
 
 2. How is the stagin area different from the working directory and the 
 repository? What value do you think it offers?
@@ -8,3 +8,13 @@ repository? What value do you think it offers?
 contains the actual files and the staging area is where we choose what files
 will go into our commits.It offers the possibility to add or remove files from
 our next commit.
+
+3. How can you use the staging area to make sure you have one commit per 
+logical change?
+--After i make a logical change in code, i will use the staging area to add that
+change to my current commit and then create it with a specific description.
+
+4. What are some situations when branches would be helpful in keeping your 
+history organinzed? How would branches help?
+--When implementing a new feature, a branch would be very helpful, you can work 
+on that until it's perfect and then add it to the rest of your code.
