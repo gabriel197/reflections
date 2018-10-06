@@ -18,3 +18,7 @@ change to my current commit and then create it with a specific description.
 history organinzed? How would branches help?
 --When implementing a new feature, a branch would be very helpful, you can work 
 on that until it's perfect and then add it to the rest of your code.
+
+5. How do the diagrams help you visualize the branch structure?
+--By showing a visual representation of what modifications are brought to 
+commit & when and where are implemented new features
