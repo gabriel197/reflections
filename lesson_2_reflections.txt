@@ -1,4 +1,4 @@
-1. What happens when you initialize a repository? Why do you need to do it?
+21. What happens when you initialize a repository? Why do you need to do it?
 --An empty Git repository is created, i need it in order to make commits to
 my files.
 
