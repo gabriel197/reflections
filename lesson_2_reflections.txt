@@ -22,3 +22,14 @@ on that until it's perfect and then add it to the rest of your code.
 5. How do the diagrams help you visualize the branch structure?
 --By showing a visual representation of what modifications are brought to 
 commit & when and where are implemented new features
+
+6. What is the result of merging two branches together? Why do we represent it 
+the diagram the way we do?
+--Combining two or more branches result in a single one, the one that's checked 
+out, containing the code from all branches. By representing the diagram in the 
+form that it is, i can easily see what commits and branches have been combined
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+--Automatic merging saves a lot of time by adding and removing code for us and
+it give the option to manually doing merge when there is a conflict in code
