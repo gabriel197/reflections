@@ -21,3 +21,10 @@ them with your local one
 would be harder?
 --Would be easier only if we are together in the same room, otherwise everything will be
 not necessary harder more like time consuming
+
+6.When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+--When is a feature to implement that might have some bugs and you'll want a pull request
+on that, it might be a good ideea to use a separate branch & also when multiple people are
+working on the same project. Otherwise if you are woking alone on repository, it's ok to make
+the changes directly to master, it's less time consuming
