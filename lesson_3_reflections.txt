@@ -16,3 +16,8 @@ master and create new pathways that can be merged at the end.
 --You can work on project no matter if you have internet connection or not, while working 
 with someone, by fetching the repository and getting new different commits, you can merge
 them with your local one
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+--Would be easier only if we are together in the same room, otherwise everything will be
+not necessary harder more like time consuming
