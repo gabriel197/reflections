@@ -11,3 +11,8 @@ instead of another?
 --Fork create a copy of the repository on GitHub servers while "clone" make it from GitHub
 to your local machine or from local to another local. Branches start from a commit on 
 master and create new pathways that can be merged at the end.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+--You can work on project no matter if you have internet connection or not, while working 
+with someone, by fetching the repository and getting new different commits, you can merge
+them with your local one
